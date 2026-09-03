@@ -48,7 +48,3 @@ forkify/
 
 La guia solicita versionar el proyecto en GitHub y publicarlo en Netlify. Estos pasos requieren las credenciales/cuentas del alumno. Una vez publicados, coloca las URLs en `ENTREGA.txt`.
 
-## Nota sobre la guia
-
-Se conservaron los objetivos y la arquitectura de la actividad, corrigiendo en el codigo erratas operativas evidentes de la guia cuando era necesario para que los identificadores y eventos fueran validos, por ejemplo `hashchange`, `state`, `resultsPerPage` e `index.html`.
-# AplicacionRecetasForkify
